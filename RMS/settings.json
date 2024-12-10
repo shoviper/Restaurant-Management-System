@@ -1,0 +1,7 @@
+{
+    "service_charge": 1.1,
+    "tax_rate": 1.07,
+    "tier_1": 0.8,
+    "tier_2": 0.85,
+    "tier_3": 0.9
+}

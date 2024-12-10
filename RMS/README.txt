@@ -1,0 +1,1 @@
+This folder also contains the database and test cases(settings.json, menu.json, membership.json, employee.json, 27052023.json), which will be automatically loaded. However, without these pre-initialized files, the program can generate these files with the default value if the json files are not detected. 
